@@ -20,7 +20,7 @@
 -----------------
 
 # گروه های میرمحمد کمالی
-1. G-UserInterfaceDesgin - 01
+1. [G-UserInterfaceDesgin - 01]
     1. [ــUID-30 میرمحمد کمالی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/30_%D9%85%D9%8A%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D9%85%D8%A7%D9%84%D9%8A)    
     1. [ــUID-44 مهدی یزدی راد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/44_%D9%85%D9%87%D8%AF%D9%8A%20%D9%8A%D8%B2%D8%AF%D9%8A%20%D8%B1%D8%A7%D8%AF)    
     1. [ــUID-24 شقایق عابدینی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/24_%D8%B4%D9%82%D8%A7%D9%8A%D9%82%20%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86%D9%8A)    
