@@ -9,7 +9,7 @@
 
 - [SOP](https://mir-mohammad.github.io/SOP/)
 
-- [team](<a href="https://uupload.ir/view/fptw_5555.jpg" target="_blank"><img src="https://uupload.ir/files/fptw_5555_thumb.jpg" border="0" alt="آپلود عکس" /></a>)
+- [team](<a href="https://uupload.ir/" target="_blank"><img src="https://uupload.ir/files/fptw_5555.jpg" border="0" alt="آپلود عکس" /></a>)
 
 
 ------------------
