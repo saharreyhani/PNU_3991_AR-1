@@ -15,11 +15,11 @@
 
 ## دروس کارشناسی
 
-[1115157_01 & 02 نظريه زبانهاوماشين ها 3](https://github.com/mim-asadpour/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
+[1115157_01 & 02 نظريه زبانهاوماشين ها 3](https://github.com/mir-mohammad/PNU_3991_AR1/tree/main/Theory-of-Languages-and-Machines)
 <br>
-[1322108_01 تعامل انسان و كامپيوتر 3](https://github.com/mim-asadpour/PNU_3991_AR/tree/main/HumanComputerInteraction)
+[1322108_01 تعامل انسان و كامپيوتر 3](https://github.com/mir-mohammad/PNU_3991_AR1/tree/main/HumanComputerInteraction)
 <br>
-[1322110_01 طراحي واسط كاربر 3](https://github.com/mim-asadpour/PNU_3991_AR/tree/main/UserInterfaceDesgin)
+[1322110_01 طراحي واسط كاربر 3](https://github.com/mir-mohammad/PNU_3991_AR1/tree/main/UserInterfaceDesgin)
 
 --------------
 ## روز و ساعت ارائه دروس
