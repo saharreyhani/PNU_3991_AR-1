@@ -12,12 +12,7 @@
 - [team](https://uupload.ir/files/fptw_5555.jpg)
 
 ------------------
-# میرمحمد کمالی
-- [PNU_3991_AR](https://github.com/mir-mohammad/PNU_3991_AR)
-- [Resume](https://mir-mohammad.github.io/) 
-- [SOP](https://mir-mohammad.github.io/SOP/)
-- [GitHub](https://github.com/mir-mohammad)
------------------
+
 
 # گروه های میرمحمد کمالی
 1. [G-UserInterfaceDesgin - 01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
