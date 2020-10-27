@@ -6,7 +6,7 @@
 - [github account](https://github.com/mir-mohammad/)
   :حساب گیت هاب
 - [resume](https://mir-mohammad.github.io/)
-
+   رزومه:
 - [SOP](https://mir-mohammad.github.io/SOP/)
 
 - [team](https://uupload.ir/files/fptw_5555.jpg)
