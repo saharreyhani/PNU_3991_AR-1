@@ -3,9 +3,9 @@
 ### میرمحمد کمالی
  
 ---
-- [حساب گیت هاب](https://github.com/mir-mohammad/)
+- [github account](https://github.com/mir-mohammad/)
 
-- [رزومه](https://mir-mohammad.github.io/)
+- [resume](https://mir-mohammad.github.io/)
 
 - [SOP](https://mir-mohammad.github.io/SOP/)
 
