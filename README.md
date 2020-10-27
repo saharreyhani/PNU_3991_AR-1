@@ -4,13 +4,13 @@
  
 ---
 - [github account](https://github.com/mir-mohammad/)
-  :حساب گیت هاب
+  : حساب گیت هاب
 - [resume](https://mir-mohammad.github.io/)
-  :رزومه
+  : رزومه
 - [SOP](https://mir-mohammad.github.io/SOP/)
-  : گروه 
+  :انگیزنه نامه 
 - [team](https://uupload.ir/files/fptw_5555.jpg)
-
+  : گروه
 ------------------
 
 
