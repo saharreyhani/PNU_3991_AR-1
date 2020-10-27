@@ -1,11 +1,11 @@
 # PNU_3991_AR
 ---------
-### مهدیه اسدپور
+### میرمحمد کمالی
  
 ---
-- [حساب گیت هاب](https://github.com/mim-asadpour/)
+- [حساب گیت هاب](https://github.com/mir-mohammad/)
 
-- [رزومه](https://mim-asadpour.github.io/)
+- [رزومه](https://mir-mohammad.github.io/)
 
 - [SOP]()
 
