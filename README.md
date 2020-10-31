@@ -9,8 +9,7 @@
   : رزومه
 - [SOP](https://mir-mohammad.github.io/SOP/)
   :انگیزنه نامه 
-- [team](https://uupload.ir/files/fptw_5555.jpg)
-  : گروه
+  
 ------------------
 
 
