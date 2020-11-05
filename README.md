@@ -10,6 +10,7 @@
 - [SOP](https://mir-mohammad.github.io/SOP/)
   :انگیزنه نامه 
 - [java script](js.pdf)
+  : مدرک جاوا اسکریپت
   
 ------------------
 
