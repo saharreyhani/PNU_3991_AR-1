@@ -12,7 +12,7 @@
 - [java script](js.pdf)
   : مدرک جاوا اسکریپت
 - [HTML](html.pdf)
-  : مدرک html
+  : HTML مدرک
   
 ------------------
 
