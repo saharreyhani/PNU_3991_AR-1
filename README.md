@@ -3,21 +3,18 @@
 ### میرمحمد کمالی
  
 ---
-- [github account](https://github.com/mir-mohammad/)
-  : حساب گیت هاب
+- [github](https://github.com/mir-mohammad/)
+-[PNU_3991_AR](https://github.com/mir-mohammad/PNU_3991_AR)
 - [resume](https://mir-mohammad.github.io/)
-  : رزومه
-- [SOP](https://mir-mohammad.github.io/SOP/)
-  :انگیزنه نامه 
-- [java script](js.pdf)
-  : مدرک جاوا اسکریپت
-- [HTML](html.pdf)
+- [SOP](https://mir-mohammad.github.io/SOP/) 
+- [javascript Certificate](js.pdf)
+- [HTML Certificate](html.pdf)
   : HTML مدرک
   
 ------------------
 
 
-# گروه های میرمحمد کمالی
+# گروه ها
 1. [G-UserInterfaceDesgin - 01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
 
     1. [ــUID-30 میرمحمد کمالی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/30_%D9%85%D9%8A%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D9%85%D8%A7%D9%84%D9%8A)    
