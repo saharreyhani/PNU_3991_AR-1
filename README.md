@@ -50,6 +50,10 @@
 [1322108_01 تعامل انسان و كامپيوتر ](https://github.com/mir-mohammad/PNU_3991_AR1/tree/main/HumanComputerInteraction)
 <br>
 [1322110_01 طراحي واسط كاربر ](https://github.com/mir-mohammad/PNU_3991_AR1/tree/main/UserInterfaceDesgin)
+<br>
+[1115139-01 مدار های منطقی ]
+<br>
+[1115080-01 اصول طراحی کامپایلر ]
 
 --------------
 
